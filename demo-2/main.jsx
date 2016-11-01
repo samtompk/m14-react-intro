@@ -3,7 +3,12 @@
 // Data to pass to our List elements
 var items = [
     {text:"Go to the store", status:"complete"},
-    {text:"Go to class", status:'incomplete'}
+    {text:"Go to class", status:'complete'},
+    {text:"Go to class", status:'complete'},
+    {text:"Stay awake", status:'incomplete'},
+    {text:"Do homework", status:'incomplete'},
+    {text:"Be super cool", status:'complete'},
+    {text:"Win all the awards", status:'incomplete'}
 ];
 
 // Simple ListItem component for showing an <li>
